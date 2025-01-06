@@ -1,0 +1,34 @@
+Abbreviation,Chemical Name
+A,adenosine-3'-phosphate
+C,cytidine-3'-phosphate
+G,guanosine-3'-phosphate
+P,5'-phosphate
+U,uridine-3'-phosphate
+a,2'-O-methyladenosine-3'-phosphate
+c,2'-O-methylcytidine-3'-phosphate
+g,2'-O-methylguanosine-3'-phosphate
+s,phosphorothioate linkage
+t,2'-O-methyl-5-methyluridine-3'-phosphate
+u,2'-O-methyluridine-3'-phosphate
+Af,2'-fluoroadenosine-3'-phosphate
+Cf,2'-fluorocytidine-3'-phosphate
+Gf,2'-fluoroguanosine-3'-phosphate
+Uf,2'-fluorouridine-3'-phosphate
+VP,vinyl-phosphonate
+dA,2'-deoxyadenosine-3'-phosphate
+dC,2'-deoxycytidine-3'-phosphate
+dG,2'-deoxyguanosine-3'-phosphate
+dT,2'-deoxythimidine-3'-phosphate
+L96,N-[tris(GalNAc-alkyl)-amidodecanoyl)]-4-hydroxyprolinol
+(A2p),adenosine-2'-phosphate
+(Agn),adenosine-glycol nucleic acid
+(Ahd),2'-O-hexadecyl-adenosine-3'-phosphate
+(C2p),cytidine-2'-phosphate
+(Cgn),cytidine-glycol nucleic acid
+(Chd),2'-O-hexadecyl-cytidine-3'-phosphate
+(G2p),guanosine-2'-phosphate
+(Ggn),guanosine-glycol nucleic acid
+(Ghd),2'-O-hexadecyl-guanosine-3'-phosphate
+(Tgn),thymidine-glycol nucleic acid
+(U2p),uridine-2'-phosphate
+(Uhd),2'-O-hexadecyl-uridine-3'-phosphate
