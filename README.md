@@ -1,1 +1,1 @@
-# WSIC-2nd-SiRNA-Drug-Efficacy-Prediction
+# WSIC-2nd-siRNA-Drug-Efficacy-Prediction
